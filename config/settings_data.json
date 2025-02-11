@@ -27,6 +27,7 @@
   },
   "platform_customizations": {
     "custom_css": [
+      ".redirect {min-height: 100vh; min-height: 100dvh; display: flex; flex-direction: column; justify-content: center;}",
       ".redirect a {color: inherit !important;}"
     ]
   }
