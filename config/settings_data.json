@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "storefront_hostname": "ist.or.at",
+    "storefront_hostname": "kunsthallewien.at",
     "colors_accent_1": "{{ shop.brand.colors.primary[0].background }}",
     "colors_accent_2": "{{ shop.brand.colors.secondary[0].background }}",
     "colors_text": "{{ shop.brand.colors.primary[0].background }}",
@@ -22,7 +22,7 @@
     "inputs_border_thickness": 2,
     "inputs_border_opacity": 100,
     "inputs_radius": 40,
-    "favicon": "{{ shop.brand.square_logo }}",
+    "favicon": "shopify://shop_images/apple-touch-icon.png",
     "content_for_index": []
   },
   "platform_customizations": {
